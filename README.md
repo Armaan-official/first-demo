@@ -1,2 +1,3 @@
 # first-demo
-First time learning git
+First time learning git.
+Author - Armaan
